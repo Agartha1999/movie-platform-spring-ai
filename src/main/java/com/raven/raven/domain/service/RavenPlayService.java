@@ -1,4 +1,4 @@
-package com.raven.raven;
+package com.raven.raven.domain.service;
 
 import dev.langchain4j.service.UserMessage;
 import dev.langchain4j.service.spring.AiService;
